@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://interiordesignlab.net/blog-interiordesignlab/sitemap.xml
